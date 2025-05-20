@@ -33,13 +33,6 @@ I tried to put as much vulnerabilities as possible in a short period of time. I 
 12. Hardcoding Issues – Part 2
 13. Input Validation Issues – Part 3
 
-## Can I contribute?
-Yes, you can help by sending us the details of vulnerabilities that we can implement in future versions of Diva. Please send an email to info [at] payatu.com with subject “DIVA Contribution”.
-
-## Where can I get Diva?
-* The Source can be downloaded from github - https://github.com/payatu/diva-android
-* You can also download the debug version of the app from http://www.payatu.com/damn-insecure-and-vulnerable-app/
-
 ## How to compile Diva?
 * Download the source
 * Open the project in Android Studio
