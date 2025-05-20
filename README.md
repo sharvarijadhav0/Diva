@@ -63,19 +63,9 @@ We would love to hear from you about your experience with Diva. Please send us a
 2. Phone make and model (or Emulator Android/API version if using an emulator)
 3. Feedback/Bug details and steps to reproduce.
 
-## Author
-Aseem Jakhar
-
 ## About Payatu
 Payatu is a boutique security testing company with specialization in:
 * IoT Security
 * Mobile Security
 * Cloud security
 * Web Security
-
-We also organize two International Security Conferences
-* nullcon International Security Conference - http://nullcon.net
-* hardwear.io Hardware Security Conference - http://hardwear.io
-
-**Website:** http://payatu.com
-**Email:** info (at) payatu dot com
